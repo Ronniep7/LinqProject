@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataX">
+  <DataContextMoniker Name="/DataXDataContext" />
+  <nestedChildShapes>
+    <classShape Id="60da2db1-e390-45fb-98f3-3014461edabd" absoluteBounds="0.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataXDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="38e6f2d7-301f-44b5-b79e-da38b6275974" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1e3c1c53-4770-4cdb-a525-4bb2496f1a95" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataXDataContext/Movy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2b5528a-5a95-4e77-b92e-de0715701b01" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="28f5f911-d9b3-4a06-9900-71da9d408834" absoluteBounds="0.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataXDataContext/Rental" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8e693a80-5556-4b91-9eaa-971a9d1656f3" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
